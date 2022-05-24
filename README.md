@@ -3,7 +3,7 @@
 _**JSX**_ 
 ES2016/2015JS code -> Babel -> ES5 JS
 Simple jsx to javascript convesion
-```react
+```jsx
 const App = () => {
   return <div> Mochiron Desu </div>
   }
