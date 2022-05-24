@@ -19,6 +19,6 @@ HTML
 <div style="background-color:red;"></div>
 ```
 Javascript
-```react
+```jsx
 <div style={{backgroundColor:'red'}}></div>
 ``` 
